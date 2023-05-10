@@ -1,0 +1,20 @@
+[
+  {
+      "id": 2,
+      "pizzeria": "pizzeria one",
+      "city": "city one",
+      "zip_code": 111111
+  },
+  {
+      "id": 3,
+      "pizzeria": "pizzeria two",
+      "city": "city two",
+      "zip_code": 222222
+  },
+  {
+      "id": 5,
+      "pizzeria": "pizzeria four",
+      "city": "city four",
+      "zip_code": 444444
+  }
+]
